@@ -16,8 +16,17 @@ Ombrios is a small project which allows you to send and display temperature sens
 
 ## Montage
 
-![App Screenshot](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/06/ds18b20_esp32_single_normal.png?w=750&quality=100&strip=all&ssl=1)
+<p align="center" wi>
+  <img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/06/ds18b20_esp32_single_normal.png?w=750&quality=100&strip=all&ssl=1" alt="Logo" width="256">
+</p>
 
+
+## Library
+
+
+- ThingSpeak
+- OneWire
+- DallasTemperature (by Miles Burton)
 
 ## Authors
 
