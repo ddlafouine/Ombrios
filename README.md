@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://i.ibb.co/tBRZZ53/Nouveau-projet.png" alt="Logo">
+<p align="center" wi>
+  <img src="https://i.ibb.co/tBRZZ53/Nouveau-projet.png" alt="Logo" width="192">
 </p>
 
 # Ombrios
